@@ -1,0 +1,9 @@
+# Project exclude paths
+/ch.fhnw.algd2.arraycollections/ch.fhnw.algd2.arraycollections/.gradle/
+/ch.fhnw.algd2.arraycollections/ch.fhnw.algd2.arraycollections/build/
+/ch.fhnw.algd2.arraycollections/ch.fhnw.algd2.arraycollections/build/classes/java/main/
+/ch.fhnw.algd2.arraycollections/ch.fhnw.algd2.arraycollections/build/classes/java/test/
+/ch.fhnw.algd2.lists/.gradle/
+/ch.fhnw.algd2.lists/build/
+/ch.fhnw.algd2.lists/build/classes/java/main/
+/ch.fhnw.algd2.lists/build/classes/java/test/
